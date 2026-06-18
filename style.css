@@ -1,0 +1,7 @@
+body {
+    background-color: darkslategray;
+    color: var(--text);
+    font-family: var(--font-sans);
+    min-height: 100vh;
+    padding: 0 0 60px;
+}
